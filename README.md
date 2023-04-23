@@ -14,7 +14,7 @@ This is my first python game 😊.
 First step is install latest version of Python on your device.\
 In the project directory, you can run the following in your terminal (powershell recommended):
 
-### `pip install requirements.txt`
+### `pip install -r requirements.txt`
 
 Runs the python pakage manager pip which gets automatically installed along with python.\
 This installs the dependencies of the project.
